@@ -1,0 +1,4 @@
+.env
+.qodo/
+.history/
+node_modules
